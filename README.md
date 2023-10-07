@@ -6,6 +6,6 @@
 
 https://opentdb.com/api_config.php bu siteden kendi quiz verilerini oluşturabilirsiniz.
 
-https://www.site24x7.com/tools/json-to-csharp.html bu site Json verilerinizi oromatik olarak c# sınıfına çevirir.Oluşturulan get set kısımlarını silebilirsiniz ve lsiteleri Ilist şeklinde oluşturuyor onu List türüne çeviriniz.
+https://www.site24x7.com/tools/json-to-csharp.html bu site JSON verilerinizi otomatik olarak c# sınıfına çevirir.Oluşturulan get set kısımlarını silebilirsiniz ve listeleri IList türünde oluşturuyor onu List türüne çeviriniz.
 
 Not: Chrome'da Json verilerini daha düzenli görmek istiyor iseniz JSON Formatter eklentisini mağazadan kurabilirsiniz.
