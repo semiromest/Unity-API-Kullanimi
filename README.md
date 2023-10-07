@@ -1,2 +1,3 @@
 # Unity-API-Kullanimi
-Unity C# ile bir API'ye istek atarak veri çekme işlemleri
+GetData.cs dosyası genel bir API'dan veri çekme işlemi için kullanılabilir
+QuizGame.cs dosyası https://opentdb.com/api.php?amount=10&category=23&difficulty=medium&type=multiple 'dan gelen verilerle örnek bir quiz oyunu içerir.
