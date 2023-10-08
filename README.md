@@ -9,3 +9,5 @@ https://opentdb.com/api_config.php bu siteden kendi quiz verilerini oluşturabil
 https://www.site24x7.com/tools/json-to-csharp.html bu site JSON verilerinizi otomatik olarak c# sınıfına çevirir.Oluşturulan get set kısımlarını silebilirsiniz ve listeleri IList türünde oluşturuyor onu List türüne çeviriniz.
 
 Not: Chrome'da Json verilerini daha düzenli görmek istiyor iseniz JSON Formatter eklentisini mağazadan kurabilirsiniz.
+
+Not2 : QuizGame.cs dosyası hiç temiz bir yazım değil farkındayım.Bunu böyle yazmamın sebebi bir not gibi olmasıdır.Gerçek bir projede fonksiyonlara bölmek ve classları farklı scriptlere yazmak daha uygundur.
